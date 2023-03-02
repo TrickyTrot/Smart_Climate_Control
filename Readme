@@ -1,0 +1,2 @@
+In this version of programm you must explicitly indicate in which COM port plaget Arduino board!
+Like "COM {number of port}".
